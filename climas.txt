@@ -1,0 +1,11 @@
+Datos :
+  clima menor a las 08:00 h: 23.0 registrado el dia  Sat Feb 20 00:00:00 COT 2021
+  clima mayor a las 08:00 h: 30.0 registrado el dia  Mon Feb 15 00:00:00 COT 2021
+  clima menor a las 14:00 h: 30.0 registrada el dia  Fri Feb 19 00:00:00 COT 2021
+  clima mayor a las 14:00 h: 37.0 registrada el dia  Thu Feb 18 00:00:00 COT 2021
+  clima menor a las 20:00 h: 12.0 registrada el dia  Mon Feb 15 00:00:00 COT 2021
+  clima mayor a las 20:00 h: 70.0 registrada el dia  Sun Feb 21 00:00:00 COT 2021
+  Aumento de lluvias: 15.4 registrada el dia  Tue Feb 16 00:00:00 COT 2021
+  Aumento de nieve: 9.0 registrada el dia  Tue Feb 16 00:00:00 COT 2021
+  Hora puesta sol mas temprano: 06:46 registrada el dia  Thu Feb 18 00:00:00 COT 2021
+  Hora oculta sol mas temprano: 17:28 registrada el dia  Fri Feb 19 00:00:00 COT 2021

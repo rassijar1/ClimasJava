@@ -1,0 +1,68 @@
+
+
+
+
+-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 25.0
+  Temperaturas convertidas a celsius: -3.888888888888889
+  Temperaturas convertidas a  Kelvin: 269.26149999999996-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 25.0
+  Temperaturas convertidas a celsius: -3.888888888888889
+  Temperaturas convertidas a  Kelvin: 269.26149999999996-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 23.0
+  Temperaturas convertidas a celsius: -5.0
+  Temperaturas convertidas a  Kelvin: 268.15049999999997-----------------------------------------------------------------------
+Temperaturas semanales 08:00 h: 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 36.0
+  Temperaturas convertidas a celsius: 2.2222222222222223
+  Temperaturas convertidas a  Kelvin: 275.37199999999996-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 36.0
+  Temperaturas convertidas a celsius: 2.2222222222222223
+  Temperaturas convertidas a  Kelvin: 275.37199999999996-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 36.0
+  Temperaturas convertidas a celsius: 2.2222222222222223
+  Temperaturas convertidas a  Kelvin: 275.37199999999996-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 37.0
+  Temperaturas convertidas a celsius: 2.7777777777777777
+  Temperaturas convertidas a  Kelvin: 275.92749999999995-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 32.0
+  Temperaturas convertidas a celsius: 0.0
+  Temperaturas convertidas a  Kelvin: 273.15-----------------------------------------------------------------------
+Temperaturas semanales 14:00 h : 37.0
+  Temperaturas convertidas a celsius: 2.7777777777777777
+  Temperaturas convertidas a  Kelvin: 275.92749999999995-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 12.0
+  Temperaturas convertidas a celsius: -11.11111111111111
+  Temperaturas convertidas a  Kelvin: 262.03999999999996-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 30.0
+  Temperaturas convertidas a celsius: -1.1111111111111112
+  Temperaturas convertidas a  Kelvin: 272.039-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 32.0
+  Temperaturas convertidas a celsius: 0.0
+  Temperaturas convertidas a  Kelvin: 273.15-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 36.0
+  Temperaturas convertidas a celsius: 2.2222222222222223
+  Temperaturas convertidas a  Kelvin: 275.37199999999996-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 28.0
+  Temperaturas convertidas a celsius: -2.2222222222222223
+  Temperaturas convertidas a  Kelvin: 270.928-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 32.0
+  Temperaturas convertidas a celsius: 0.0
+  Temperaturas convertidas a  Kelvin: 273.15-----------------------------------------------------------------------
+Temperaturas semanales 20:00 h: 70.0
+  Temperaturas convertidas a celsius: 21.11111111111111
+  Temperaturas convertidas a  Kelvin: 294.25899999999996
